@@ -1,0 +1,14 @@
+TIME COMPLEXITY
+
+The time complexity of find_max_min() is O(nm), where n is the number of rows in the matrix and m 
+is the number of columns in the matrix. This is because it loops through each row of the matrix and 
+then finds the maximum value in that row, which takes O(m) time. As a result, the overall time 
+complexity is O(nm).
+
+
+SPACE COMPLEXITY
+
+The space complexity of find_max_min() is O(n), where n is the number of rows in the matrix. This is 
+because the code creates a list of length n to store the maximum value of each row. Since it does not 
+create any other data structure with respect to the size of the matrix, the space complexity is only 
+dependent on the number of rows.
