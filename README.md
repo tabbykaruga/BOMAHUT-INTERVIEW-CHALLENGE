@@ -1,9 +1,9 @@
-## PYTHON-CHALLENGE
+# PYTHON-CHALLENGE
 
 BOMAHUT INTERVIEW CHALLENGE
 
-## a) Write an algorithm that given an M X N  matrix return all numbers that are the maximum value inits row but the minimum in its column
-# solved in algorithim.py
+# a) Write an algorithm that given an M X N  matrix return all numbers that are the maximum value inits row but the minimum in its column
+## solved in algorithim.py
 
 For example if given the matrix
 Input:matrix = [[5,16,20],[9,11,18],[15,16,17]]
@@ -21,8 +21,8 @@ Constraints:
 ● 1 <= matrix[i][j] <= 105.
 ● All elements in the matrix are distinct.
 
-## b) What is the space and time complexity of your solution? 
-# Explained in complexity file
+# b) What is the space and time complexity of your solution? 
+## Explained in complexity file
 
-## c) Write 1-2 tests that you run to validate your answer.
-# Test in Test.py
+# c) Write 1-2 tests that you run to validate your answer.
+## Test in Test.py
